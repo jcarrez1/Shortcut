@@ -1,0 +1,16 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\PowerPoint\Security\ProtectedView]
+"DisableInternetFilesInPV"=dword:00000001
+"DisableAttachmentsInPV"=dword:00000001
+"DisableUnsafeLocationsInPV"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Excel\Security\ProtectedView]
+"DisableInternetFilesInPV"=dword:00000001
+"DisableAttachmentsInPV"=dword:00000001
+"DisableUnsafeLocationsInPV"=dword:00000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Word\Security\ProtectedView]
+"DisableInternetFilesInPV"=dword:00000001
+"DisableAttachmentsInPV"=dword:00000001
+"DisableUnsafeLocationsInPV"=dword:00000001
